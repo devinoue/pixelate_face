@@ -12,4 +12,6 @@ OpenCVによるHaar-like特徴分類器を使って顔検出をし
 
 ![モザイク後](https://raw.githubusercontent.com/devinoue/pixelate_face/master/test_mosaic.jpg)
 
-参考文献・クジラ飛行机『PythonによるAI・機械学習・深層学習アプリのつくりかた』
+# 参考
+[Face Detection using Haar Cascades](https://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html)
+クジラ飛行机『PythonによるAI・機械学習・深層学習アプリのつくりかた』
